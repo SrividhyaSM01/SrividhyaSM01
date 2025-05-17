@@ -21,15 +21,15 @@
 
 ---
 
-## ✨ About Me
+<!-- About Me -->
+- 🎓 Aspiring Data Scientist passionate about uncovering insights from data  
+- 🧠 Focused on Machine Learning, NLP, and AI  
+- 💡 Learning Python, Scikit-learn, Pandas, and Deep Learning  
+- 📚 Always exploring new tools and technologies  
+- 🌱 Building projects, models, and pipelines using real-world datasets  
+- 📬 Reach me: srividhya.email@example.com  
 
-```markdown
-- 🎓 Aspiring Data Scientist passionate about uncovering insights from data
-- 🧠 Focused on Machine Learning, NLP, and AI
-- 💡 Learning Python, Scikit-learn, Pandas, and Deep Learning
-- 📚 Always exploring new tools and technologies
-- 🌱 Building projects, models, and pipelines using real-world datasets
-- 📫 Reach me: srividhya.email@example.com
+<!-- Badges (do NOT wrap this in a code block) -->
 <div align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
@@ -37,11 +37,19 @@
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
   <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
 </div>
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=SrividhyaSM01&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" /> </p>
-- 🐍 Python | Pandas | NumPy | Matplotlib | Seaborn
-- 🤖 Scikit-Learn | NLP | Jupyter
-- 🛠️ Git | GitHub | VS Code
-- 📊 Kaggle | Google Colab
+
+<!-- GitHub Stats -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SrividhyaSM01&show_icons=true&theme=radical&count_private=true" />
+</p>
+
+<!-- Skills -->
+- 🐍 Python | Pandas | NumPy | Matplotlib | Seaborn  
+- 🤖 Scikit-Learn | NLP | Jupyter  
+- 🛠️ Git | GitHub | VS Code  
+- 📊 Kaggle | Google Colab  
+
+<!-- Social Links -->
 <p align="center">
   <a href="mailto:srividhya.email@example.com">📧 Email</a> • 
   <a href="https://linkedin.com/in/your-profile">🔗 LinkedIn</a> • 
