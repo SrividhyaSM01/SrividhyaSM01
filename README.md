@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="300" alt="Data Science Thinking" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e473asc66ays83u0nekq8auxnym1si3msnqy7otvqun&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="300" alt="Data Science Thinking" />
 </p>
 
 ---
@@ -74,5 +74,5 @@
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/XE3MPpQXRKx0A1fECI/giphy.gif" width="250" alt="Data Analysis GIF" />
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3dzaW9oa3Z1Y3k3M2tvNmljaTlhYTk3OXB1Z2g5ZWJmZDVkZW9ldCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gi84IkFRzwube/giphy.gif" width="250" alt="Data Analysis GIF" />
 </p>
