@@ -1,23 +1,100 @@
-<h1 align="center">Hi 👋, I'm Srividhya S M</h1>
-<h3 align="center">A passionate Data scientist from India</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=srividhyasm01&label=Profile%20views&color=0e75b6&style=flat" alt="srividhyasm01" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=srividhyasm01" alt="srividhyasm01" /></a> </p>
-
-- 🌱 I’m currently learning **data science**
-
-- 📫 How to reach me **smsrividhya7@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h1 align="center">Hi there 👋, I'm Srividhya</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F75C7E&width=435&lines=Aspiring+Data+Scientist;Python+%7C+SQL+%7C+HTML%2FCSS%2FJS;Always+learning+%E2%9C%A8" alt="Typing SVG" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=srividhyasm01&show_icons=true&locale=en&layout=compact" alt="srividhyasm01" /></p>
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=srividhyasm01&show_icons=true&locale=en" alt="srividhyasm01" /></p>
+### 👩‍💻 About Me
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=srividhyasm01&" alt="srividhyasm01" /></p>
+- 🌱 I’m currently learning **Data Science**  
+- 🔭 I’m building skills in **Python, pandas, NumPy, matplotlib, SQL, HTML/CSS/JS**
+- 🧠 I enjoy solving problems and creating visualizations
+- ✍️ I’m documenting my learning journey here on GitHub
+
+---
+
+### 🧰 Tech Stack
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/pandas-150458?style=flat&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat&logo=matplotlib&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
+</p>
+
+---
+
+### 🏆 Scoreboard – My Learning Progress
+
+| Topic | Status |
+|-------|--------|
+| ✅ Python Basics | Completed |
+| ✅ NumPy & pandas | Completed |
+| ✅ Data Visualization (matplotlib) | Completed |
+| 🔄 SQL (MySQL + SQLite) | In Progress |
+| 🔄 HTML/CSS/JS | In Progress |
+| ⏳ Machine Learning | Starting Soon |
+| 🧠 Deep Learning & AI | Future Goal |
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SrividhyaSM01&show_icons=true&theme=radical" width="47%">
+  <img src="https://streak-stats.demolab.com/?user=SrividhyaSM01&theme=radical" width="47%">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SrividhyaSM01&layout=compact&theme=radical" width="47%">
+</p>
+
+---
+
+### 📈 Visitor Count
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=SrividhyaSM01&label=Profile+Views&color=brightgreen&style=flat" alt="SrividhyaSM01" />
+</p>
+
+---
+
+### 🧪 Projects (WIP)
+
+| Project | Description | Preview |
+|--------|-------------|---------|
+| 🧹 **Data Cleaner** | Clean messy CSVs with Python/pandas | ![preview](https://via.placeholder.com/150x80?text=Data+Cleaner) |
+| 📊 **Visualization Dashboard** | Matplotlib graphs for real data | ![preview](https://via.placeholder.com/150x80?text=Dashboard) |
+| 🌐 **Mini Portfolio Website** | HTML/CSS + JS responsive site | ![preview](https://via.placeholder.com/150x80?text=Mini+Website) |
+
+---
+
+### 📚 Recommended Tools (Ads)
+
+- 📘 [Kaggle](https://www.kaggle.com/) – practice datasets
+- ⚙️ [Google Colab](https://colab.research.google.com/) – free GPU notebooks
+- 📊 [DrawSQL](https://drawsql.app/) – visualize your SQL schemas
+- 🧠 [DataCamp](https://www.datacamp.com/) or [Coursera](https://www.coursera.org/) for structured learning
+
+---
+
+### 🌐 Connect with Me
+
+<p>
+  <a href="https://github.com/SrividhyaSM01"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+</p>
+
+---
+
+⭐️ Thank you for visiting my profile! I'm always learning — feel free to collaborate!
+
