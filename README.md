@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/1n2z3q7DA3wxE/giphy.gif" width="320px" alt="Data Science GIF" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="320px" alt="Machine Learning Work" />
 </p>
 
 ---
@@ -72,6 +72,4 @@ Currently improving skills in **ML**, **NLP**, and **deployment of data apps**.
 
 ---
 
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="320px" alt="Machine Learning Work" />
-</p>
+
