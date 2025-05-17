@@ -1,100 +1,115 @@
-<h1 align="center">Hi there 👋, I'm Srividhya</h1>
+<!-- Header with banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F75C7E&width=435&lines=Aspiring+Data+Scientist;Python+%7C+SQL+%7C+HTML%2FCSS%2FJS;Always+learning+%E2%9C%A8" alt="Typing SVG" />
+  <img src="https://github.com/SrividhyaSM01/SrividhyaSM01/assets/placeholder-banner.png" alt="Srividhya - Data Science Learner" width="100%" />
 </p>
 
----
-
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
-
-### 👩‍💻 About Me
-
-- 🌱 I’m currently learning **Data Science**  
-- 🔭 I’m building skills in **Python, pandas, NumPy, matplotlib, SQL, HTML/CSS/JS**
-- 🧠 I enjoy solving problems and creating visualizations
-- ✍️ I’m documenting my learning journey here on GitHub
-
----
-
-### 🧰 Tech Stack
-
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/pandas-150458?style=flat&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat&logo=matplotlib&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
-</p>
-
----
-
-### 🏆 Scoreboard – My Learning Progress
-
-| Topic | Status |
-|-------|--------|
-| ✅ Python Basics | Completed |
-| ✅ NumPy & pandas | Completed |
-| ✅ Data Visualization (matplotlib) | Completed |
-| 🔄 SQL (MySQL + SQLite) | In Progress |
-| 🔄 HTML/CSS/JS | In Progress |
-| ⏳ Machine Learning | Starting Soon |
-| 🧠 Deep Learning & AI | Future Goal |
-
----
-
-### 📊 GitHub Stats
+<h1 align="center">👋 Hi, I'm Srividhya</h1>
+<p align="center"><b>🚀 Aspiring Data Scientist | Python Lover | Web Curious | Constant Learner</b></p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SrividhyaSM01&show_icons=true&theme=radical" width="47%">
-  <img src="https://streak-stats.demolab.com/?user=SrividhyaSM01&theme=radical" width="47%">
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SrividhyaSM01&layout=compact&theme=radical" width="47%">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FEE0&center=true&width=440&lines=Data+Science+Learner;Python+%7C+SQL+%7C+ML+Newbie;Learning+Daily+%F0%9F%93%9A+Building+Projects" />
 </p>
 
 ---
 
-### 📈 Visitor Count
+### 📸 My Visual Journey
+
+<div align="center">
+  <img src="https://github.com/SrividhyaSM01/SrividhyaSM01/assets/data-journey.png" width="800px" alt="Srividhya's Data Science Path" />
+</div>
+
+---
+
+### 💻 Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,numpy,pandas,matplotlib,mysql,sqlite,html,css,js" />
+</p>
+
+---
+
+### 🎓 Learning Roadmap
+
+| Phase        | Skills                                   | Progress Image |
+|--------------|-------------------------------------------|----------------|
+| 📘 Basics     | Python, pandas, NumPy                     | ![Python](https://img.icons8.com/color/48/000000/python--v1.png) |
+| 📊 Visuals    | matplotlib, seaborn                       | ![Graphs](https://github.com/SrividhyaSM01/SrividhyaSM01/assets/graphs-preview.png) |
+| 🗃️ Databases  | MySQL, SQLite                             | ![DB](https://github.com/SrividhyaSM01/SrividhyaSM01/assets/sql-preview.png) |
+| 🌐 Web Basics | HTML, CSS, JS                             | ![Web](https://github.com/SrividhyaSM01/SrividhyaSM01/assets/web-preview.png) |
+| 🤖 ML Coming  | Scikit-learn, colab, Jupyter              | 🧠 In progress... |
+
+---
+
+### 🚀 Projects Showcase
+
+<table>
+<tr>
+  <td align="center">
+    <img src="https://via.placeholder.com/200x120.png?text=Data+Cleaner" />
+    <br>
+    <b>Data Cleaner</b><br>
+    Clean CSVs with pandas
+  </td>
+  <td align="center">
+    <img src="https://via.placeholder.com/200x120.png?text=Viz+Dashboard" />
+    <br>
+    <b>Visualization Dashboard</b><br>
+    Graph real-world data
+  </td>
+  <td align="center">
+    <img src="https://via.placeholder.com/200x120.png?text=SQL+Playground" />
+    <br>
+    <b>SQL Playground</b><br>
+    Practice MySQL & SQLite queries
+  </td>
+</tr>
+</table>
+
+---
+
+### 📈 GitHub Stats & Graphs
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SrividhyaSM01&show_icons=true&theme=gruvbox" width="45%">
+  <img src="https://streak-stats.demolab.com/?user=SrividhyaSM01&theme=gruvbox" width="45%">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SrividhyaSM01&theme=rogue" width="90%">
+</p>
+
+---
+
+### 🧠 Favorite Learning Tools
+
+| Tool         | Purpose                | Logo |
+|--------------|------------------------|------|
+| Google Colab | Python & ML notebooks  | ![Colab](https://img.icons8.com/color/48/000000/google-colab.png) |
+| Kaggle       | Competitions & datasets| ![Kaggle](https://img.icons8.com/color/48/000000/kaggle.png) |
+| Jupyter      | Code + Markdown        | ![Jupyter](https://img.icons8.com/color/48/000000/jupyter.png) |
+
+---
+
+### 🌍 Connect with Me
+
+<p align="center">
+  <a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://linkedin.com"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/SrividhyaSM01"><img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" /></a>
+</p>
+
+---
+
+### 👣 Visitor Count
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=SrividhyaSM01&label=Profile+Views&color=brightgreen&style=flat" alt="SrividhyaSM01" />
+  <img src="https://komarev.com/ghpvc/?username=SrividhyaSM01&label=Profile+Views&color=blue&style=flat-square" />
 </p>
 
 ---
 
-### 🧪 Projects (WIP)
+### 🌟 Keep Learning, Keep Building!
 
-| Project | Description | Preview |
-|--------|-------------|---------|
-| 🧹 **Data Cleaner** | Clean messy CSVs with Python/pandas | ![preview](https://via.placeholder.com/150x80?text=Data+Cleaner) |
-| 📊 **Visualization Dashboard** | Matplotlib graphs for real data | ![preview](https://via.placeholder.com/150x80?text=Dashboard) |
-| 🌐 **Mini Portfolio Website** | HTML/CSS + JS responsive site | ![preview](https://via.placeholder.com/150x80?text=Mini+Website) |
-
----
-
-### 📚 Recommended Tools (Ads)
-
-- 📘 [Kaggle](https://www.kaggle.com/) – practice datasets
-- ⚙️ [Google Colab](https://colab.research.google.com/) – free GPU notebooks
-- 📊 [DrawSQL](https://drawsql.app/) – visualize your SQL schemas
-- 🧠 [DataCamp](https://www.datacamp.com/) or [Coursera](https://www.coursera.org/) for structured learning
-
----
-
-### 🌐 Connect with Me
-
-<p>
-  <a href="https://github.com/SrividhyaSM01"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<p align="center">
+  <img src="https://github.com/SrividhyaSM01/SrividhyaSM01/assets/keep-learning.gif" width="200" />
 </p>
-
----
-
-⭐️ Thank you for visiting my profile! I'm always learning — feel free to collaborate!
-
