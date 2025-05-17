@@ -1,6 +1,6 @@
 <h1 align="center">Hi there 👋, I'm Srividhya</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F75C7E&width=435&lines=Aspiring+Data+Scientist;Python+%7C+SQL+%7C+HTML%2FCSS%2FJS;Always+learning+%E2%9C%A8" alt="Typing SVG" />
+ <center> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F75C7E&width=435&lines=Aspiring+Data+Scientist;Python+%7C+SQL+%7C+HTML%2FCSS%2FJS;Always+learning+%E2%9C%A8" alt="Typing SVG" /></center>
 </p>
 
 ---
