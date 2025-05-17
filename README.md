@@ -1,57 +1,82 @@
-<!-- Centered SVG Welcome Badge -->
-<div align="center">
+<h1 align="center">Hi there, I'm Srividhya 👋</h1>
 
-<svg width="220" height="220" viewBox="0 0 220 220">
-  <circle cx="110" cy="110" r="100" stroke="#6c63ff" stroke-width="8" fill="none">
-    <animate attributeName="stroke-dasharray" values="0,1000;628,1000" dur="2s" repeatCount="indefinite"/>
-  </circle>
-  <text x="110" y="115" text-anchor="middle" font-size="18" fill="#333" font-family="Verdana">
-    🚀 Srividhya
-  </text>
-</svg>
-
-</div>
-
----
-
-<!-- Typing Animation using SVG -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Aspiring+Data+Scientist;Lifelong+Learner;Python%2C+ML%2C+NLP+Fan;Welcome+to+my+GitHub!&center=true&width=500&height=50&font=Fira+Code&pause=1000&color=6C63FF&vCenter=true&size=22" />
+  Aspiring <strong>Data Scientist</strong> passionate about turning data into insights 💡  
 </p>
 
 ---
 
-<!-- About Me -->
+### ✨ About Me
+
 - 🎓 Aspiring Data Scientist passionate about uncovering insights from data  
 - 🧠 Focused on Machine Learning, NLP, and AI  
 - 💡 Learning Python, Scikit-learn, Pandas, and Deep Learning  
 - 📚 Always exploring new tools and technologies  
 - 🌱 Building projects, models, and pipelines using real-world datasets  
-- 📬 Reach me: srividhya.email@example.com  
+- 📬 Reach me at: <a href="mailto:srividhya.email@example.com">srividhya.email@example.com</a>
 
-<!-- Badges (do NOT wrap this in a code block) -->
-<div align="center">
+---
+
+### 🚀 Tech Stack
+
+<p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
   <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
-</div>
-
-<!-- GitHub Stats -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SrividhyaSM01&show_icons=true&theme=radical&count_private=true" />
 </p>
 
-<!-- Skills -->
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SrividhyaSM01&show_icons=true&theme=radical&count_private=true" alt="Srividhya's GitHub stats" />
+</p>
+
+---
+
+### 🧠 Skills
+
 - 🐍 Python | Pandas | NumPy | Matplotlib | Seaborn  
 - 🤖 Scikit-Learn | NLP | Jupyter  
-- 🛠️ Git | GitHub | VS Code  
+- 💻 Git | GitHub | VS Code  
 - 📊 Kaggle | Google Colab  
 
-<!-- Social Links -->
+---
+
+### 🌐 Connect with Me
+
 <p align="center">
   <a href="mailto:srividhya.email@example.com">📧 Email</a> • 
   <a href="https://linkedin.com/in/your-profile">🔗 LinkedIn</a> • 
   <a href="https://github.com/SrividhyaSM01">💻 GitHub</a>
 </p>
+
+---
+
+### ✨ Little Touch of Animation
+
+```html
+<style>
+@keyframes typing {
+  from { width: 0 }
+  to { width: 100% }
+}
+@keyframes blink {
+  50% { border-color: transparent }
+}
+.typewriter {
+  width: 22ch;
+  overflow: hidden;
+  border-right: 2px solid;
+  white-space: nowrap;
+  animation: typing 2.5s steps(22), blink 0.75s step-end infinite;
+  font-family: monospace;
+  font-size: 1.2em;
+  color: #6c63ff;
+}
+</style>
+
+<div class="typewriter">Hello, I love data science! ✨</div>
