@@ -74,5 +74,5 @@
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/HzPtbOKyBoBFsK4hyc/giphy.gif?cid=ecf05e47wdu0zwp9w3g3dhjb9e2zq0cvitz9n5xegqvtidvk&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="250" alt="Data Analysis GIF" />
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif?cid=ecf05e47wdu0zwp9w3g3dhjb9e2zq0cvitz9n5xegqvtidvk&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="250" alt="Done GIF" />
 </p>
