@@ -1,56 +1,95 @@
+<!-- Welcome Banner -->
+<p align="center">
+  <img src="./assets/banner-srividhya.png" width="100%" />
+</p>
+
 <h1 align="center">Hi there 👋, I'm Srividhya</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F75C7E&width=435&lines=Aspiring+Data+Scientist;Python+%7C+SQL+%7C+HTML%2FCSS%2FJS;Always+learning+%E2%9C%A8" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2000&pause=1000&color=F75C7E&width=500&lines=Aspiring+Data+Scientist;Python+%7C+SQL+%7C+HTML%2FCSS%2FJS;Always+learning+%E2%9C%A8" alt="Typing SVG" />
 </p>
 
 ---
 
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280" />
 
 ### 👩‍💻 About Me
 
-- 🌱 I’m currently learning **Data Science**  
-- 🔭 I’m building skills in **Python, pandas, NumPy, matplotlib, SQL, HTML/CSS/JS**
+- 🌱 I’m currently learning **Data Science**
+- 🔭 Building skills in **Python, pandas, NumPy, matplotlib, SQL, HTML/CSS/JS**
 - 🧠 I enjoy solving problems and creating visualizations
-- ✍️ I’m documenting my learning journey here on GitHub
+- ✍️ Documenting my journey here on GitHub
 
 ---
 
-### 🧰 Tech Stack
+### 🧠 Tech Toolbox
 
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/pandas-150458?style=flat&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat&logo=matplotlib&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
+<p align="center">
+  <img src="https://github.com/SrividhyaSM01/SrividhyaSM01/raw/main/assets/tech-icons.png" width="600px">
 </p>
 
 ---
 
-### 🏆 Scoreboard – My Learning Progress
+### 🏆 Lab Wall of Achievements (Instead of Trophies)
+
+<p align="center">
+  <img src="./assets/achievements-wall.png" width="100%" />
+</p>
+
+> 📌 *Milestones, learning badges, and goals in one view!*
+
+---
+
+### 📊 Learning Scoreboard
 
 | Topic | Status |
 |-------|--------|
 | ✅ Python Basics | Completed |
 | ✅ NumPy & pandas | Completed |
-| ✅ Data Visualization (matplotlib) | Completed |
+| ✅ Visualization (matplotlib) | Completed |
 | 🔄 SQL (MySQL + SQLite) | In Progress |
 | 🔄 HTML/CSS/JS | In Progress |
 | ⏳ Machine Learning | Starting Soon |
-| 🧠 Deep Learning & AI | Future Goal |
+| 🎯 Deep Learning & AI | Future Goal |
 
 ---
 
-### 📊 GitHub Stats
+### 🧪 Featured Projects
+
+<table>
+<tr>
+  <td align="center">
+    <img src="./assets/project-data-cleaner.gif" width="180px" /><br/>
+    <b>🧹 Data Cleaner</b><br/>
+    <sub>Clean messy CSVs with Python/pandas</sub>
+  </td>
+  <td align="center">
+    <img src="./assets/project-dashboard.gif" width="180px" /><br/>
+    <b>📊 Visualization Dashboard</b><br/>
+    <sub>Matplotlib graphs for real data</sub>
+  </td>
+  <td align="center">
+    <img src="./assets/project-website.gif" width="180px" /><br/>
+    <b>🌐 Mini Portfolio</b><br/>
+    <sub>HTML + CSS + JS responsive site</sub>
+  </td>
+</tr>
+</table>
+
+---
+
+### ⏳ Currently Learning Widget
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SrividhyaSM01&theme=github_dark" />
+</p>
+
+---
+
+### 📈 GitHub Analytics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=SrividhyaSM01&show_icons=true&theme=radical" width="47%">
-  <img src="https://streak-stats.demolab.com/?user=SrividhyaSM01&theme=radical" width="47%">
+  <img src="https://streak-stats.demolab.com?user=SrividhyaSM01&theme=radical" width="47%">
 </p>
 
 <p align="center">
@@ -61,32 +100,22 @@
 
 ### 📈 Visitor Count
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=SrividhyaSM01&label=Profile+Views&color=brightgreen&style=flat" alt="SrividhyaSM01" />
+<p>
+  <img src="https://komarev.com/ghpvc/?username=SrividhyaSM01&label=Profile+Views&color=brightgreen&style=flat" />
 </p>
 
 ---
 
-### 🧪 Projects (WIP)
+### 🧩 Tools I Recommend (Ads)
 
-| Project | Description | Preview |
-|--------|-------------|---------|
-| 🧹 **Data Cleaner** | Clean messy CSVs with Python/pandas | ![preview](https://via.placeholder.com/150x80?text=Data+Cleaner) |
-| 📊 **Visualization Dashboard** | Matplotlib graphs for real data | ![preview](https://via.placeholder.com/150x80?text=Dashboard) |
-| 🌐 **Mini Portfolio Website** | HTML/CSS + JS responsive site | ![preview](https://via.placeholder.com/150x80?text=Mini+Website) |
-
----
-
-### 📚 Recommended Tools (Ads)
-
-- 📘 [Kaggle](https://www.kaggle.com/) – practice datasets
-- ⚙️ [Google Colab](https://colab.research.google.com/) – free GPU notebooks
-- 📊 [DrawSQL](https://drawsql.app/) – visualize your SQL schemas
-- 🧠 [DataCamp](https://www.datacamp.com/) or [Coursera](https://www.coursera.org/) for structured learning
+- 📘 [Kaggle](https://www.kaggle.com/) – real datasets
+- ⚙️ [Google Colab](https://colab.research.google.com/) – free notebooks
+- 💡 [DrawSQL](https://drawsql.app/) – visualize your schemas
+- 🧠 [DataCamp](https://www.datacamp.com/), [Coursera](https://www.coursera.org/)
 
 ---
 
-### 🌐 Connect with Me
+### 🌐 Let's Connect
 
 <p>
   <a href="https://github.com/SrividhyaSM01"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
@@ -96,5 +125,4 @@
 
 ---
 
-⭐️ Thank you for visiting my profile! I'm always learning — feel free to collaborate!
-
+⭐️ *Thanks for visiting — I'm building my dream one dataset at a time.*
